@@ -33,14 +33,6 @@
 172.64.33.155 d.rutor.info
 172.64.33.155 d.rutor.is
 
-# Мои параметры
-45.155.204.190 analytics.google.com
-95.182.120.241 analytics.google.com
-45.155.204.190 app.appodeal.com
-95.182.120.241 app.appodeal.com
-45.155.204.190 appodeal.com
-95.182.120.241 appodeal.com
-
 # Решение от Flowseal (Discord Voice)
 # https://raw.githubusercontent.com/Flowseal/zapret-discord-youtube/refs/heads/main/.service/hosts
 104.25.158.178 finland10000.discord.media
