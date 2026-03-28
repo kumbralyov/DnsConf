@@ -700,15 +700,6 @@
 45.155.204.190 www.fmhy.net
 95.182.120.241 www.fmhy.net
 
-# Fitbit
-45.155.204.190 api.fitbit.com
-95.182.120.241 api.fitbit.com
-45.155.204.190 fitbit-pa.googleapis.com
-95.182.120.241 fitbit-pa.googleapis.com
-45.155.204.190 fitbit.google.com
-95.182.120.241 fitbit.google.com
-45.155.204.190 fitbitvestibuleshim-pa.googleapis.com
-95.182.120.241 fitbitvestibuleshim-pa.googleapis.com
 
 # Framer
 45.155.204.190 framer.com
